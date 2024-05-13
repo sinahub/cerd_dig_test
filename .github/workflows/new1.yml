@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           mkdir /home/sina/actions-runner/sina
-          touch sina/main.txt
+          touch /home/sina/actions-runner/sina/main.txt
